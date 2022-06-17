@@ -1,0 +1,25 @@
+segment_sources:
+  IEAD6E07E:
+    type: origin_type
+    relation: translation
+    language: en
+  I561475E1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ae383acbff194866b198845fa039cc14:
+    IEAD6E07E: 515a9fd902e948eaa0235b2d95755851
+    I561475E1: 800310d818254a69a02b3cdb7cd067cf
+  2420f8281ce04f9ea9f1426ac002224b:
+    IEAD6E07E: 5abeaed9a5874e73b4eb5fd50c83bcd8
+    I561475E1: 574823af7ee7428e8ba14a5b26f7c72c
+  08d0248a31e54a5abdac8edee7000fdd:
+    IEAD6E07E: 50a86d0947d84845b78ed65263b76e07
+    I561475E1: 4a681f2d9e3f448aa75da4d0f42bb760
+  d17351576a784ff3a124489b2e4a0cc7:
+    IEAD6E07E: 8e4eb89e321049fd8206c7bfc2d76cd2
+    I561475E1: a2a99c5346d246e598ac85ce86bf9e29
+  1c6065a4b17743b19731b04c54cd122f:
+    IEAD6E07E: 857c7ba7afe649b8bfd6a7b213dbed73
+    I561475E1: b3ad7c379532429a900c92b44a7ad8b3
